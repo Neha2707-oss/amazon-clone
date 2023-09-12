@@ -1,2 +1,19 @@
-# amazon-clone
-This is my first project in github
+
+# Miles per Gallon
+
+A brief description of what this project does and who it's for
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
